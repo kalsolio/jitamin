@@ -2,7 +2,7 @@
   "name": "jitamin",
   "dependencies": {
     "bower": "^1.7.9",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-bower": "0.0.13",
     "gulp-cli": "^1.2.1",
     "gulp-concat": "^2.6.0",
